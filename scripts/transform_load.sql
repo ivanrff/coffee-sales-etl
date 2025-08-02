@@ -9,6 +9,7 @@ SELECT
     1
 FROM
     staging_vendas_maquina1;
+TRUNCATE staging_vendas_maquina1;
 
 INSERT INTO
     vendas (data_venda, tipo_pagamento, valor, cafe, maquina)
@@ -20,3 +21,4 @@ SELECT
     2
 FROM
     staging_vendas_maquina2;
+TRUNCATE staging_vendas_maquina2;
