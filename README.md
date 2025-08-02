@@ -1,4 +1,8 @@
-# Pequeno Projeto de ETL
+# Pequeno Projeto de ELT
+
+## Fonte dos dados
+
+https://www.kaggle.com/datasets/ihelon/coffee-sales
 
 ## Como instanciar
 
